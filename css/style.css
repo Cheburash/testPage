@@ -1,6 +1,8 @@
-body { padding-top: 40px; }
+body { background-color: white; padding-top: 40px; }
 
-.jumbotron { background-image: url("http://images.trvl-media.com/media/content/shared/images/travelguides/Riga-and-vicinity-6056778-smallTabletRetina.jpg"); background-position: center; background-repeat: no-repeat; background-size: cover; }
-.jumbotron .container { background-color: rgba(255, 255, 255, 0.7); }
+.jumbotron { height: 600px; background-image: url("http://images.trvl-media.com/media/content/shared/images/travelguides/Riga-and-vicinity-6056778-smallTabletRetina.jpg"); background-position: center; background-repeat: no-repeat; background-size: cover; }
+.jumbotron .container { background-color: rgba(255, 255, 255, 0.8); margin: 0 auto; }
+
+.vertical-center { min-height: 100%; min-height: 100vh; display: flex; align-items: center; }
 
 /*# sourceMappingURL=style.css.map */
