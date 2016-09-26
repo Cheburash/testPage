@@ -13,6 +13,8 @@ background-position: center;
 background-repeat: no-repeat;
 background-size: cover;
 
+font-family: Helvetica Neue,Helvetica,Arial,sans-serif;
+
 	.container {
 	background-color: rgba(255,255,255,0.8);
 	margin: 0 auto;
@@ -26,4 +28,16 @@ background-size: cover;
 
   display: flex;
   align-items: center;
+}
+
+.gallery {
+background-color: black;
+}
+
+.carousel-caption {
+background-color: rgba(0,0,0,0.8);
+color: white;
+padding: 10px;
+
+margin-bottom: 40px;
 }
