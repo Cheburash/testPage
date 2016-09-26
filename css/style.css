@@ -15,4 +15,8 @@ body { background-color: white; padding-top: 40px; }
 
 .firstQuote { border: none; }
 
+.featuresSection img { display: block; width: 100%; }
+
+.well { margin-bottom: 0; }
+
 /*# sourceMappingURL=style.css.map */
