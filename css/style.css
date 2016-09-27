@@ -1,7 +1,7 @@
 body { background-color: white; padding-top: 40px; }
 
 .jumbotron { height: 600px; background-image: url("http://images.trvl-media.com/media/content/shared/images/travelguides/Riga-and-vicinity-6056778-smallTabletRetina.jpg"); background-position: center; background-repeat: no-repeat; background-size: cover; font-family: Helvetica Neue,Helvetica,Arial,sans-serif; }
-.jumbotron .container { background-color: rgba(255, 255, 255, 0.8); margin: 0 auto; }
+.jumbotron .container { background-color: rgba(255, 255, 255, 0.8); margin: 0 auto; padding-bottom: 10px; }
 
 .vertical-center { min-height: 100%; min-height: 100vh; display: flex; align-items: center; }
 
@@ -18,5 +18,11 @@ body { background-color: white; padding-top: 40px; }
 .featuresSection img { display: block; width: 100%; }
 
 .well { margin-bottom: 0; }
+
+.btnstyle { background: rgba(44, 44, 44, 0); border: solid #808080 2px; color: black; margin: 3px; }
+
+.btnnav { background: rgba(255, 255, 255, 0.8); border: solid #303030 2px; color: black; }
+
+.btnnav:hover { background: rgba(255, 255, 255, 0.9); color: black; border-color: #303030; }
 
 /*# sourceMappingURL=style.css.map */

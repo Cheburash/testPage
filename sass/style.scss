@@ -19,6 +19,7 @@ font-family: Helvetica Neue,Helvetica,Arial,sans-serif;
 	.container {
 	background-color: rgba(255,255,255,0.8);
 	margin: 0 auto;
+	padding-bottom: 10px;
 	}
 
 }
@@ -80,4 +81,25 @@ border: none;
 
 .well {
 margin-bottom: 0;
+}
+
+.btnstyle {
+
+background: rgba(44,44,44,0);
+border:solid #808080 2px;
+color: black;
+margin: 3px;
+}
+
+.btnnav {
+background: rgba(255,255,255,0.8); 
+border:solid #303030 2px;
+color: black;
+
+}
+
+.btnnav:hover {
+background: rgba(255,255,255,0.9); 
+color: black;
+border-color: #303030;
 }
